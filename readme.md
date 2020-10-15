@@ -4,6 +4,9 @@
 	<h3>
 		<a href="https://www.producthunt.com/posts/recordia">My latest macOS app is on Product Hunt</a>
 	</h3>
+	<h4>
+		Check out my latest iPhone app <a href="https://apps.apple.com/app/id1532588789">Photo Widget</a> which lets you add photos to your home screen
+	</h4>
 	<br>
 	<br>
 	<br>
@@ -539,6 +542,7 @@
 - [Tools of the Trade](https://github.com/cjbarber/ToolsOfTheTrade#readme) - Tools used by companies on Hacker News.
 - [Clean Tech](https://github.com/nglgzz/awesome-clean-tech#readme) - Fighting climate change with technology.
 - [Wardley Maps](https://github.com/wardley-maps-community/awesome-wardley-maps#readme) - Provides high situational awareness to help improve strategic planning and decision making.
+- [Social Enterprise](https://github.com/RayBB/awesome-social-enterprise#readme) - Building an organization primarily focused on social impact that is at least partially self-funded.
 
 ## Work
 
